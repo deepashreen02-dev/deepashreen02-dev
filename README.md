@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, My name is Deepashree N</h1>
+<h1 align="center">Hi 👋 My name is Deepashree N</h1>
 <h3 align="center">BCA Student from Karnataka, India</h3>
 <h3 align="center">Aspiring Cybersecurity Professional | Building Projects, Exploring Tech & Growing Every Day</h3>
 
